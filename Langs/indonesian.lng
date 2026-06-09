@@ -1,0 +1,26 @@
+﻿[menu]
+openwith=Buka Dengan
+settings=Pengaturan
+
+[action]
+playlist=Daftar Putar
+audio_library=Pustaka Musik
+
+[common]
+openwith.popup.files=%Files%
+openwith.popup.folders=%Folders%
+openwith.popup.pause=%AIMP Pause%
+openwith.popup.stop=%AIMP Stop%
+openwith.popup.addurl=URL
+
+[settings_form]
+category_title=OpenWith
+label_path=Lokasi program
+label_title=Judul
+label_params=Parameter
+button_add=Tambah
+button_delete=Hapus
+label_import=Impor
+label_import.h=Import dari berkas
+label_export=Ekspor
+label_export.h=Export ke berkas
